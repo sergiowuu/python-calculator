@@ -12,7 +12,7 @@ This is a simple calculator project implemented in Python. The goal is to provid
 
 ## Requirements
 
-- Python 3.6 or higher
+- Python 3 or higher
 - No external dependencies required
 
 ## How to Use
